@@ -1,0 +1,5 @@
+name = "Registry.jl"
+uuid = "58b2901e-23a2-40be-a278-98689d155278"
+repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
+
+[packages]
