@@ -11,6 +11,7 @@ repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 9778a910-ce4d-423e-92be-12991f0cf10c = { name = "NSEBase", path = "N/NSEBase" }
 a88878f4-81de-4718-8ef2-0d5b47c6289d = { name = "Continuation", path = "C/Continuation" }
 a8e3295d-89e8-4b4f-a448-5f2c64bcc7b5 = { name = "FDHelmoltzSolver", path = "F/FDHelmoltzSolver" }
+b2c17008-295b-4fcf-b5c4-ce68318043a5 = { name = "ReSolverChannelFlowMP", path = "R/ReSolverChannelFlowMP" }
 c724298d-75c1-46c2-b795-cd153ae6310d = { name = "NSEBaseMPIExt", path = "N/NSEBaseMPIExt" }
 cbbec004-2816-4a06-900b-d51f11be72b6 = { name = "ReSolverChannelFlowGPU", path = "R/ReSolverChannelFlowGPU" }
 d910d432-2c57-11e9-263c-df934de6853d = { name = "Flows", path = "F/Flows" }

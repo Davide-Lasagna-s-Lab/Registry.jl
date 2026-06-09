@@ -1,0 +1,6 @@
+[0]
+MPI = "0.20.23-0.20"
+NSEBase = "0.1"
+NSEBaseMPIExt = "0.1"
+ReSolverChannelFlow = "0.1"
+julia = "1.10.0-1"
