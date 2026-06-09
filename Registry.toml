@@ -9,6 +9,7 @@ repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
 68885deb-619e-46e7-8f2f-b2eb8cd87bc0 = { name = "ReSolverSquareDuct", path = "R/ReSolverSquareDuct" }
 701a43e8-2c5a-11e9-2d86-e5d483bb0ff0 = { name = "GMRES", path = "G/GMRES" }
+7a9eea79-3890-4e50-917d-d256faf2e4af = { name = "ResolverOptimAlgorithms", path = "R/ResolverOptimAlgorithms" }
 8e664b2d-fea9-4945-a6a3-91764c96093d = { name = "ResolventAnalysis", path = "R/ResolventAnalysis" }
 9778a910-ce4d-423e-92be-12991f0cf10c = { name = "NSEBase", path = "N/NSEBase" }
 9a172a43-bfaf-4cc4-8edb-b32fc4c49da3 = { name = "ReSolver", path = "R/ReSolver" }
