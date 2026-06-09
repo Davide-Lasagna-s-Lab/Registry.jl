@@ -3,3 +3,4 @@ uuid = "58b2901e-23a2-40be-a278-98689d155278"
 repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 
 [packages]
+5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
