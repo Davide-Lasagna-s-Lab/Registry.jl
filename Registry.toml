@@ -3,6 +3,7 @@ uuid = "58b2901e-23a2-40be-a278-98689d155278"
 repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 
 [packages]
+042d9bae-2c59-11e9-23be-1940f146c892 = { name = "StreamingRecurrenceAnalysis", path = "S/StreamingRecurrenceAnalysis" }
 0ac2d069-28cd-4d1e-aa57-4eb7242fcd6c = { name = "SPOD", path = "S/SPOD" }
 28eb41cd-435a-4ede-8bdb-f2685fc03e8c = { name = "FDGrids", path = "F/FDGrids" }
 2cb43c6e-2c58-11e9-183a-2725e2c9802c = { name = "OpenKolmogorovFlow", path = "O/OpenKolmogorovFlow" }
