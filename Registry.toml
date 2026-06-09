@@ -7,6 +7,7 @@ repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 0ac2d069-28cd-4d1e-aa57-4eb7242fcd6c = { name = "SPOD", path = "S/SPOD" }
 28eb41cd-435a-4ede-8bdb-f2685fc03e8c = { name = "FDGrids", path = "F/FDGrids" }
 2cb43c6e-2c58-11e9-183a-2725e2c9802c = { name = "OpenKolmogorovFlow", path = "O/OpenKolmogorovFlow" }
+43bc7ac2-fad8-4079-92ed-761929918ac3 = { name = "ToySystems", path = "T/ToySystems" }
 53bbc39a-2c58-11e9-14b8-a5180f719d78 = { name = "NKSearch", path = "N/NKSearch" }
 5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
 68885deb-619e-46e7-8f2f-b2eb8cd87bc0 = { name = "ReSolverSquareDuct", path = "R/ReSolverSquareDuct" }
