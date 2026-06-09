@@ -4,6 +4,7 @@ repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 
 [packages]
 28eb41cd-435a-4ede-8bdb-f2685fc03e8c = { name = "FDGrids", path = "F/FDGrids" }
+2cb43c6e-2c58-11e9-183a-2725e2c9802c = { name = "OpenKolmogorovFlow", path = "O/OpenKolmogorovFlow" }
 53bbc39a-2c58-11e9-14b8-a5180f719d78 = { name = "NKSearch", path = "N/NKSearch" }
 5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
 701a43e8-2c5a-11e9-2d86-e5d483bb0ff0 = { name = "GMRES", path = "G/GMRES" }
