@@ -5,6 +5,7 @@ repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 [packages]
 28eb41cd-435a-4ede-8bdb-f2685fc03e8c = { name = "FDGrids", path = "F/FDGrids" }
 5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
+701a43e8-2c5a-11e9-2d86-e5d483bb0ff0 = { name = "GMRES", path = "G/GMRES" }
 a88878f4-81de-4718-8ef2-0d5b47c6289d = { name = "Continuation", path = "C/Continuation" }
 a8e3295d-89e8-4b4f-a448-5f2c64bcc7b5 = { name = "FDHelmoltzSolver", path = "F/FDHelmoltzSolver" }
 d910d432-2c57-11e9-263c-df934de6853d = { name = "Flows", path = "F/Flows" }
