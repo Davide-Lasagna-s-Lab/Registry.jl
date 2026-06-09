@@ -1,0 +1,4 @@
+[0]
+LinearAlgebra = "1.11.0-1"
+Parameters = "0.12.3-0.12"
+Printf = "1.11.0-1"
