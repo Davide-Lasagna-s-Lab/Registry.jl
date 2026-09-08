@@ -14,6 +14,7 @@ repo = "https://github.com/Davide-Lasagna-s-Lab/Registry.jl"
 701a43e8-2c5a-11e9-2d86-e5d483bb0ff0 = { name = "GMRES", path = "G/GMRES" }
 7a9eea79-3890-4e50-917d-d256faf2e4af = { name = "ResolverOptimAlgorithms", path = "R/ResolverOptimAlgorithms" }
 8e664b2d-fea9-4945-a6a3-91764c96093d = { name = "ResolventAnalysis", path = "R/ResolventAnalysis" }
+9778a910-ce4d-423e-92be-12991f0cf10c = { name = "ReSolverFlowsBase", path = "R/ReSolverFlowsBase" }
 9a172a43-bfaf-4cc4-8edb-b32fc4c49da3 = { name = "ReSolver", path = "R/ReSolver" }
 a88878f4-81de-4718-8ef2-0d5b47c6289d = { name = "Continuation", path = "C/Continuation" }
 a8d363ce-860c-11ea-26b8-f7d5a45d10c5 = { name = "NKRoots", path = "N/NKRoots" }
