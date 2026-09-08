@@ -16,13 +16,10 @@ Private Julia package registry for packages developed at
 | [HaloArrays.jl](https://github.com/Davide-Lasagna-s-Lab/HaloArrays.jl) | MPI halo-exchange arrays |
 | [NKRoots.jl](https://github.com/Davide-Lasagna-s-Lab/NKRoots.jl) | Newton–Krylov root finding |
 | [NKSearch.jl](https://github.com/Davide-Lasagna-s-Lab/NKSearch.jl) | Newton–Krylov search |
-| [NSEBase.jl](https://github.com/Davide-Lasagna-s-Lab/NSEBase.jl) | Navier–Stokes spectral base layer |
-| [NSEBaseMPIExt.jl](https://github.com/Davide-Lasagna-s-Lab/NSEBaseMPIExt.jl) | MPI extension for NSEBase |
+| [ReSolverFlowsBase.jl](https://github.com/Davide-Lasagna-s-Lab/ReSolver-FlowsBase.jl) | Navier–Stokes spectral flows base layer |
 | [OpenKolmogorovFlow.jl](https://github.com/Davide-Lasagna-s-Lab/OpenKolmogorovFlow.jl) | Kolmogorov flow simulations |
 | [ReSolver.jl](https://github.com/Davide-Lasagna-s-Lab/ReSolver.jl) | Resolvent analysis framework |
 | [ReSolver-ChannelFlow.jl](https://github.com/Davide-Lasagna-s-Lab/ReSolver-ChannelFlow.jl) | ReSolver for plane channel flow |
-| [ReSolver-ChannelFlowGPU.jl](https://github.com/Davide-Lasagna-s-Lab/ReSolver-ChannelFlowGPU.jl) | GPU extension for channel flow |
-| [ReSolver-ChannelFlowMP.jl](https://github.com/Davide-Lasagna-s-Lab/ReSolver-ChannelFlowMP.jl) | Multi-precision channel flow |
 | [ReSolver-SquareDuct.jl](https://github.com/Davide-Lasagna-s-Lab/ReSolver-SquareDuct.jl) | ReSolver for square-duct flow |
 | [Resolvent.jl](https://github.com/Davide-Lasagna-s-Lab/Resolvent.jl) | Resolvent analysis tools |
 | [Resolver-OptimAlgorithms.jl](https://github.com/Davide-Lasagna-s-Lab/Resolver-OptimAlgorithms.jl) | Optimisation algorithms for ReSolver |
